@@ -1,0 +1,15 @@
+body{
+    background-color: coral;
+}
+
+#score{
+    font-size: 30px;
+    margin-left: 100px;
+    
+}
+
+#time{
+    font-size: 30px;
+    margin-right: 100px;
+   float:right;
+}
